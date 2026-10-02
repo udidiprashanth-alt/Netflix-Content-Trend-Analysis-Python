@@ -22,6 +22,7 @@ In the competitive OTT market, understanding content trends supports business de
 | 5. Advanced Visualization | Top 10 directors and actors |
 | 6. Dashboard | 6-chart dashboard with business insights |
 
+
 ## Visualizations
 
 <table>
@@ -38,11 +39,7 @@ In the competitive OTT market, understanding content trends supports business de
     <td><img src="06_top_10_actors.png" width="400"></td>
   </tr>
   <tr>
-    <td><img src="08_titles_added_per_year.png" width="400"></td>
-    <td></td>
-  <tr>
-    <td><img src="08_titles_added_per_year.png" width="400"></td>
-    <td><img src="07_netflix_dashboard.png" width="400"></td>
+    <td colspan="2" align="center"><img src="08_titles_added_per_year.png" width="400"></td>
   </tr>
 </table>
 
