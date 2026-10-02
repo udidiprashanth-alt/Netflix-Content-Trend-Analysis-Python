@@ -40,6 +40,9 @@ In the competitive OTT market, understanding content trends supports business de
   <tr>
     <td><img src="08_titles_added_per_year.png" width="400"></td>
     <td></td>
+  <tr>
+    <td><img src="08_titles_added_per_year.png" width="400"></td>
+    <td><img src="07_netflix_dashboard.png" width="400"></td>
   </tr>
 </table>
 
