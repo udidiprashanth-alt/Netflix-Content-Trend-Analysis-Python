@@ -2,10 +2,7 @@
 
 A data cleaning and visualization project that analyzes Netflix's catalog to understand content type, country, release year, ratings, and the most prolific creators.
 
-  <tr>
-    <td><img src="08_titles_added_per_year.png" width="400"></td>
-    <td></td>
-  </tr>
+![Netflix Dashboard](07_netflix_dashboard.png)
 
 ## Problem Statement
 In the competitive OTT market, understanding content trends supports business decisions. The raw Netflix dataset is messy, so this project cleans it and uses visualizations to uncover patterns in content type, country, release year, and genre.
@@ -26,11 +23,25 @@ In the competitive OTT market, understanding content trends supports business de
 | 6. Dashboard | 6-chart dashboard with business insights |
 
 ## Visualizations
-| | |
-|---|---|
-| ![Movies vs TV Shows](images/01_movies_vs_tv_shows.png) | ![Top Countries](images/02_top_15_countries.png) |
-| ![Release Year](images/03_release_year_distribution.png) | ![Ratings](images/04_content_ratings.png) |
-| ![Directors](images/05_top_10_directors.png) | ![Actors](images/06_top_10_actors.png) |
+
+<table>
+  <tr>
+    <td><img src="01_movies_vs_tv_shows.png" width="400"></td>
+    <td><img src="02_top_15_countries.png" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="03_release_year_distribution.png" width="400"></td>
+    <td><img src="04_content_ratings.png" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="05_top_10_directors.png" width="400"></td>
+    <td><img src="06_top_10_actors.png" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="08_titles_added_per_year.png" width="400"></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Key Insights
 1. **Movies dominate:** about 70% of titles are movies and 30% are TV shows
