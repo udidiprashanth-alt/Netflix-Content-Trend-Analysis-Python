@@ -2,11 +2,10 @@
 
 A data cleaning and visualization project that analyzes Netflix's catalog to understand content type, country, release year, ratings, and the most prolific creators.
 
-   | | |
-   |---|---|
-   | ![Movies vs TV Shows](01_movies_vs_tv_shows.png) | ![Top Countries](02_top_15_countries.png) |
-   | ![Release Year](03_release_year_distribution.png) | ![Ratings](04_content_ratings.png) |
-   | ![Directors](05_top_10_directors.png) | ![Actors](06_top_10_actors.png) |
+  <tr>
+    <td><img src="08_titles_added_per_year.png" width="400"></td>
+    <td></td>
+  </tr>
 
 ## Problem Statement
 In the competitive OTT market, understanding content trends supports business decisions. The raw Netflix dataset is messy, so this project cleans it and uses visualizations to uncover patterns in content type, country, release year, and genre.
